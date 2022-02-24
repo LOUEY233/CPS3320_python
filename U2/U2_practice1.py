@@ -1,7 +1,3 @@
-from re import S
-from unicodedata import name
-
-
 class info_collected():
     def __init__(self) -> None:
         self.name = 'name'
