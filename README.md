@@ -1,9 +1,11 @@
 # CPS3320_python
 This is the course code for CPS3320. \
-W01 **Changjie Lu** \
-ID  **1129503** \
-[Personal Website](https://louey233.github.io) \
-[AI LAB](https://github.com/LOUEY233/AI-LAB)
+W01 \
+Name **[Changjie Lu](https://louey233.github.io)**, **Yinhao Liu** \
+ID  **1129503**, **1129479** 
+
+---
+[AI LAB](https://github.com/LOUEY233/AI-LAB) 
 
 ---
 The folder is as follows:
